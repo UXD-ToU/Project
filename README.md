@@ -20,15 +20,15 @@ Project/
 ├── members/
 │   ├── 박수진/
 │   │   ├── contribution.md
-│   │   └── retrospective.md
+│   │   └── README.md
 │   │
 │   ├── 박영서/
 │   │   ├── contribution.md
-│   │   └── retrospective.md
+│   │   └── README.md
 │   │
 │   └── 오시언/
 │       ├── contribution.md
-│       └── retrospective.md
+│       └── README.md
 │
 └── wireframes/
     ├── 박수진/
